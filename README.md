@@ -1,9 +1,9 @@
-### Hi, My name is Jㅓn Seok Kim. 👋
+### Hi, My name is Jin Seok Kim. 👋
 
 ### Front-end Engineer
 - I'm hoping to become a web front-end engineer!
 - If you want to know about me, please visit my portfolio site. => [My Portfolio Site](https://k0502s.github.io/Kim-Jin-Seok-Portfolio)
-- It's my tech blog to grow up as a developer. If you're interested, please visit us. => [My Tech Blog Site](https://k0502s.tistory.com)
+- It's my tech blog to grow up as a developer. If you're interested, please visit my blog. => [My Tech Blog Site](https://k0502s.tistory.com)
 
 ### My Skils
 - HTML, CSS, Sass, Reactstrap, Styled-Components
