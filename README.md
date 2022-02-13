@@ -9,7 +9,7 @@
 - HTML, CSS, Sass, Reactstrap, Styled-Components
 - Javascript ES6
 - TypeScript
-- React.js, Redux, Redux Saga
+- React.js, React Native, Redux, Redux Saga
 - Express, MongoDB
 - Jest, React-testing-libaray
 
