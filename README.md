@@ -3,7 +3,7 @@
 ### Front-end Engineer
 - I'm hoping to become a web front-end engineer!
 - It's my tech blog to grow up as a developer. If you're interested, please visit my blog. => [My Tech Blog Site](https://k0502s.tistory.com)
-- <!-- - If you want to know about me, please visit my portfolio site. => [My Portfolio Site](https://k0502s.github.io/Kim-Jin-Seok-Portfolio) -->
+<!-- - If you want to know about me, please visit my portfolio site. => [My Portfolio Site](https://k0502s.github.io/Kim-Jin-Seok-Portfolio) -->
 
 ### My Skils
 - HTML, CSS, Sass, Reactstrap, Styled-Components
