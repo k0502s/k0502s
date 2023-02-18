@@ -48,7 +48,7 @@ Now I'm getting addicted to code development as time goes by. Help me, please.
       <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
     </a>
     <a href="https://tailwindcss.com" target="_blank">
-      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=black">
     </a>
     <br/>
     <h4>Back-End</h4>
