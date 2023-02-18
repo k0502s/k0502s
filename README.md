@@ -1,6 +1,6 @@
 ### Hi, My name is Jin Seok Kim 👋
 
-### 💻 Front-end Engineer
+### 💻  Front-end Engineer
 I'm currently working as a front-end developer developing web and app.
 <br/>
 Now I'm getting addicted to code development as time goes by. Help me, please.
@@ -8,7 +8,7 @@ Now I'm getting addicted to code development as time goes by. Help me, please.
 
 <br/>
 
-### 🛠️ My Technology Stack
+### 🛠️  My Technology Stack
 <div>
     <h4>Language</h4>
     <a href="https://ko.reactjs.org" target="_blank">
@@ -95,7 +95,7 @@ Now I'm getting addicted to code development as time goes by. Help me, please.
 
 <br/>
 
-### 📚 Tech Blog
+### 📚  Tech Blog
 
 <div>
     <a href="https://k0502s.tistory.com" target="_blank">
@@ -105,7 +105,7 @@ Now I'm getting addicted to code development as time goes by. Help me, please.
 
 <br/>
 
-### 📭 Contact Me
+### 📭  Contact Me
 
 <div>
     <a href="mailto:kjs960502@gmail.com" target="_blank">
