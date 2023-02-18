@@ -12,14 +12,14 @@ Language
 - TypeScript
 
 Front-End 
-- ReactJs, NextJs, React Native
+- ReactJs, NextJs
+- React Native
 
 Back-End
 - Express
 - MongoDB, PostgreSQL
 
 Test-Code
-- Jest
 - React-testing-libaray (Unit)
 - Cypress (WEB-E2E) 
 - Detox (APP-E2E)
