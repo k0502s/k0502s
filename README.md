@@ -9,21 +9,80 @@ Now I'm getting addicted to code development as time goes by. Help me, please.
 <br/>
 
 ### My Technology Stack 🛠️
-Language
-- TypeScript
-
-Front-End 
-- ReactJs, NextJs
-- React Native
-
-Back-End
-- Express
-- MongoDB, PostgreSQL
-
-Test-Code
-- React-testing-libaray (Unit)
-- Cypress (E2E) 
-- Detox (E2E)
+<div>
+    <h4>Language</h4>
+    <a href="https://ko.reactjs.org" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+    </a>
+     <br/>
+     <h4>Front-End</h4>
+    <a href="https://www.typescriptlang.org" target="_blank">
+      <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+    </a>
+     <a href="https://reactnative.dev" target="_blank">
+      <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+    </a>
+    <a href="https://nextjs.org" target="_blank">
+      <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+    </a>
+     <a href="https://ko.redux.js.org/introduction/getting-started" target="_blank">
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+    </a>
+    <a href="https://redux-toolkit.js.org" target="_blank">
+      <img src="https://img.shields.io/badge/Redux Tookit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+    </a>
+    <a href="https://reactrouter.com/en/main" target="_blank">
+      <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
+    </a>
+    <a href="https://react-query-v3.tanstack.com" target="_blank">
+      <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+    </a>
+    <a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    </a>
+    <a href="https://sass-lang.com" target="_blank">
+      <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    </a>
+    <a href="https://styled-components.com" target="_blank">
+      <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    </a>
+    <a href="https://tailwindcss.com" target="_blank">
+      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+    </a>
+    <br/>
+    <h4>Back-End</h4>
+    <a href="https://expressjs.com/ko" target="_blank">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com" target="_blank">
+      <img src="https://img.shields.io/badge/Mongo DB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+      <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    </a>
+    <br/>
+    <h4>Test-Code</h4>
+    <a href="https://testing-library.com" target="_blank">
+      <img src="https://img.shields.io/badge/Testing Library (Unit)-E33332?style=for-the-badge&logo=Testing Library&logoColor=white">
+    </a>
+    <a href="https://www.cypress.io" target="_blank">
+      <img src="https://img.shields.io/badge/Cypress (E2E)-17202C?style=for-the-badge&logo=Cypress&logoColor=white">
+    </a>
+    <a href="https://wix.github.io/Detox" target="_blank">
+      <img src="https://img.shields.io/badge/Detox (E2E)-1F8ACB?style=for-the-badge&logo=Detox&logoColor=white">
+    </a>
+    <br />
+    <h4>Configuration-Management</h4>
+    <a href="https://git-scm.com" target="_blank">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    </a>
+    <a href="https://github.com" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://about.gitlab.com" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+    </a>
+</div>
 
 <br/>
 
