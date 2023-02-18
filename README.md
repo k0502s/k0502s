@@ -28,7 +28,16 @@ Test-Code
 
 <br/>
 
-### Blog 📚
+### Experience 🩸
+
+- :school: In-duk University Mechatronics 3 year's Associate Degree Graduate (2021)
+- :office: [Actbase Corp.] Front-end Developer - Si Development Work (2021. 7 ~ 2022. 06)
+- :office: [Summits Corp.] Front-end Developer - [MyVenus App](https://www.myvenus.io) Service Maintenance Operations and Development Work (2022. 6 ~ current)
+
+
+<br/>
+
+### Tech Blog 📚
 
 <div>
     <a href="https://k0502s.tistory.com" target="_blank">
