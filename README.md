@@ -50,7 +50,7 @@ Test-Code
 ### Contact Me 📭
 
 <div>
-    <a href="kjs960502@gmail.com" target="_blank">
+    <a href="mailto:kjs960502@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </div>
