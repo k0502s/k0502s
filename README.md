@@ -8,19 +8,19 @@
 <br/>
 
 ### My Technology Stack 🛠️
-🛠️ Language:
+Language
 - TypeScript
 
-🛠️ Front-End: 
+Front-End 
 - CSS, Sass, Tailwind, Styled-Components
 - ReactJs, React Native, 
 - Redux, Redux Tookit
 
-🛠️ Back-End:
+Back-End
 - Express
 - MongoDB, PostgreSQL
 
-🛠️ Test-Code:
+Test-Code
 - Jest
 - React-testing-libaray (Unit)
 - Cypress (E2E) 
@@ -38,7 +38,7 @@
 
 <br/>
 
-### Contact me📭
+### Contact Me 📭
 
 <div>
     <a href="kjs960502@gmail.com" target="_blank">
