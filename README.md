@@ -1,4 +1,4 @@
-### Hi, My name is Jin Seok Kim. 👋
+### Hi, My name is Kim Jin Seok. 👋
 
 ### Front-end Engineer
 - I'm hoping to become a web front-end engineer!
