@@ -1,8 +1,9 @@
 ### Hi, My name is Jin Seok Kim 👋
 
-### Front-end Engineer
-- I'm currently working as a front-end developer developing web and app.
-- Now I'm getting addicted to code development as time goes by. Help me, please.
+### Front-end Engineer 💻
+I'm currently working as a front-end developer developing web and app.
+<br/>
+Now I'm getting addicted to code development as time goes by. Help me, please.
 <!-- - If you want to know about me, please visit my portfolio site. => [My Portfolio Site](https://k0502s.github.io/Kim-Jin-Seok-Portfolio) -->
 
 <br/>
@@ -26,7 +27,7 @@ Test-Code
 
 <br/>
 
-### Experience 🩸
+### Experience ⏳
 
 - :school: In-duk University Mechatronics 3 year's Associate Degree Graduate (2021)
 - :office: [Actbase Corp.] Front-end Developer - Si Development Work (2021. 7 ~ 2022. 06)
