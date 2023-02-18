@@ -12,9 +12,7 @@ Language
 - TypeScript
 
 Front-End 
-- CSS, Sass, Tailwind, Styled-Components
-- ReactJs, React Native, 
-- Redux, Redux Tookit
+- ReactJs, NextJs, React Native
 
 Back-End
 - Express
@@ -23,8 +21,8 @@ Back-End
 Test-Code
 - Jest
 - React-testing-libaray (Unit)
-- Cypress (E2E) 
-- Deto (E2E)
+- Cypress (WEB-E2E) 
+- Detox (APP-E2E)
 
 <br/>
 
