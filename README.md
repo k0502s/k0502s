@@ -21,8 +21,8 @@ Back-End
 
 Test-Code
 - React-testing-libaray (Unit)
-- Cypress (WEB-E2E) 
-- Detox (APP-E2E)
+- Cypress (E2E) 
+- Detox (E2E)
 
 <br/>
 
