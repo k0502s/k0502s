@@ -1,6 +1,6 @@
 ### Hi, My name is Jin Seok Kim 👋
 
-### 💻  Front-end Engineer
+### 📱 💻  Front-end Engineer
 I'm currently working as a front-end developer developing web and app.
 <br/>
 Now I'm getting addicted to code development as time goes by. Help me, please.
