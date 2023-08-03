@@ -2,8 +2,6 @@
 
 ### 📱 💻  Front-end Engineer
 I'm currently working as a front-end developer developing web and app.
-<br/>
-Now I'm getting addicted to code development as time goes by. Help me, please.
 <!-- - If you want to know about me, please visit my portfolio site. => [My Portfolio Site](https://k0502s.github.io/Kim-Jin-Seok-Portfolio) -->
 
 <br/>
