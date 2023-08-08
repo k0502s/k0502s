@@ -49,7 +49,7 @@ I'm currently working as a front-end developer developing web and app.
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
     </a>
     <br/>
-    <h4>Back-End</h4>
+<!--     <h4>Back-End</h4>
     <a href="https://expressjs.com/ko" target="_blank">
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
     </a>
@@ -59,7 +59,7 @@ I'm currently working as a front-end developer developing web and app.
     <a href="https://www.postgresql.org" target="_blank">
       <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=flat-squaree&logo=PostgreSQL&logoColor=white">
     </a>
-    <br/>
+    <br/> -->
     <h4>Test-Code</h4>
     <a href="https://testing-library.com" target="_blank">
       <img src="https://img.shields.io/badge/Testing Library (Unit)-E33332?style=flat-square&logo=Testing Library&logoColor=white">
