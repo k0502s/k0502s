@@ -107,7 +107,7 @@ I'm currently working as a front-end developer developing web and app.
 ### 📭  Contact Me
 
 <div>
-    <a href="mailto:kjs960502@gmail.com" target="_blank">
+    <a href="mailto:k0502s.dev@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </div>
