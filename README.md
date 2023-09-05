@@ -45,9 +45,9 @@ I'm currently working as a front-end developer developing web and app.
     <a href="https://styled-components.com" target="_blank">
       <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
     </a>
-    <a href="https://tailwindcss.com" target="_blank">
+<!--     <a href="https://tailwindcss.com" target="_blank">
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
-    </a>
+    </a> -->
     <br/>
 <!--     <h4>Back-End</h4>
     <a href="https://expressjs.com/ko" target="_blank">
