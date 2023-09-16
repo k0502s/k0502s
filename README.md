@@ -30,9 +30,9 @@ I'm currently working as a front-end developer developing web and app.
       <img src="https://img.shields.io/badge/Redux Tookit-764ABC?style=flat-square&logo=Redux&logoColor=white">
     </a>
     <br/>
-    <a href="https://reactrouter.com/en/main" target="_blank">
+<!--     <a href="https://reactrouter.com/en/main" target="_blank">
       <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
-    </a>
+    </a> -->
     <a href="https://react-query-v3.tanstack.com" target="_blank">
       <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
     </a>
