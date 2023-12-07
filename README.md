@@ -89,8 +89,8 @@ I'm currently working as a front-end developer developing web and app.
 
 - :school: In-duk University Mechatronics 3 year's Associate Degree Graduate (2021)
 - :office: [Actbase Corp.] Front-end Developer - Si Development Work (2021. 7 ~ 2022. 06)
-- :office: [Summits Corp.] Front-end Developer - [MyVenus App](https://www.myvenus.io) Service Maintenance Operations and Development Work (2022. 6 ~ 2023. 11)
-- :office: [AfreecaTV Corp.] Front-end Developer - AfreecaTV Global Service Maintenance Operations and Development Work (2023. 12 ~ current)
+- :office: [Summits Corp.] Front-end Developer - [MyVenus](https://www.myvenus.io) App Service Maintenance Operations and Development Work (2022. 6 ~ 2023. 11)
+- :office: [AfreecaTV Corp.] Front-end Developer - [AfreecaTV](https://www.afreecatv.com) Global Service Maintenance Operations and Development Work (2023. 12 ~ current)
 
 
 <br/>
