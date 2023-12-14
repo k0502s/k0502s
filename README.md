@@ -1,9 +1,9 @@
-### Hi, My name is Jin Seok Kim 👋
+### Hi, My name is Kim Jin-seok 👋
 
 ### 📱 💻  Front-end Engineer
 I'm currently working as a front-end developer developing web and app.
 
-I'm Kim Jin-seok, a developer who wants to grow and grow.
+I'm a developer who wants to grow and grow.
 We are always working on development thinking about the past and the future.
 
 For the launch of Indonesia's first O2O beauty platform global service, we started with a commit for the first time in the project and succeeded in launching the official service.
