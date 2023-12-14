@@ -10,7 +10,7 @@ For the launch of Indonesia's first O2O beauty platform global service, we start
 
 Since then, through continuous development and operation, we achieve 150,000 downloads of the App Store and 4% of the payment user conversion rate to the number of memberships, and when the written code and owner-friendly efforts achieve service performance and receive responses from many users regardless of nationality, we feel great satisfaction and achievement.
 
-Currently, he is a front-end developer of Afreeca TV.
+Currently, working as a front-end developer of AfreecaTV platform service.
 <!-- - If you want to know about me, please visit my portfolio site. => [My Portfolio Site](https://k0502s.github.io/Kim-Jin-Seok-Portfolio) -->
 
 <br/>
